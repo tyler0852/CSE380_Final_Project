@@ -1,0 +1,1 @@
+/Users/tyler/fall25/cse380/final_project/final_project_postgres/target/debug/tms_min: /Users/tyler/fall25/cse380/final_project/final_project_postgres/src/db_init.rs /Users/tyler/fall25/cse380/final_project/final_project_postgres/src/main.rs

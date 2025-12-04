@@ -1,0 +1,1 @@
+/Users/tyler/fall25/cse380/final_project/final_project_sqlite/target/debug/tms_min: /Users/tyler/fall25/cse380/final_project/final_project_sqlite/src/db_init.rs /Users/tyler/fall25/cse380/final_project/final_project_sqlite/src/main.rs
