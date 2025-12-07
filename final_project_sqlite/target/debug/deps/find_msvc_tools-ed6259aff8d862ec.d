@@ -1,0 +1,9 @@
+/Users/tyler/fall25/cse380/final_project/final_project_sqlite/target/debug/deps/find_msvc_tools-ed6259aff8d862ec.d: /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/find-msvc-tools-0.1.4/src/lib.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/find-msvc-tools-0.1.4/src/find_tools.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/find-msvc-tools-0.1.4/src/tool.rs
+
+/Users/tyler/fall25/cse380/final_project/final_project_sqlite/target/debug/deps/libfind_msvc_tools-ed6259aff8d862ec.rlib: /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/find-msvc-tools-0.1.4/src/lib.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/find-msvc-tools-0.1.4/src/find_tools.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/find-msvc-tools-0.1.4/src/tool.rs
+
+/Users/tyler/fall25/cse380/final_project/final_project_sqlite/target/debug/deps/libfind_msvc_tools-ed6259aff8d862ec.rmeta: /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/find-msvc-tools-0.1.4/src/lib.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/find-msvc-tools-0.1.4/src/find_tools.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/find-msvc-tools-0.1.4/src/tool.rs
+
+/Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/find-msvc-tools-0.1.4/src/lib.rs:
+/Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/find-msvc-tools-0.1.4/src/find_tools.rs:
+/Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/find-msvc-tools-0.1.4/src/tool.rs:

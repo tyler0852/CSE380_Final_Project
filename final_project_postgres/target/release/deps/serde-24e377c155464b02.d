@@ -1,0 +1,14 @@
+/Users/tyler/fall25/cse380/final_project/final_project_postgres/target/release/deps/serde-24e377c155464b02.d: /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/tyler/fall25/cse380/final_project/final_project_postgres/target/release/build/serde-6c9ed650a6a1e90a/out/private.rs
+
+/Users/tyler/fall25/cse380/final_project/final_project_postgres/target/release/deps/libserde-24e377c155464b02.rlib: /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/tyler/fall25/cse380/final_project/final_project_postgres/target/release/build/serde-6c9ed650a6a1e90a/out/private.rs
+
+/Users/tyler/fall25/cse380/final_project/final_project_postgres/target/release/deps/libserde-24e377c155464b02.rmeta: /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/tyler/fall25/cse380/final_project/final_project_postgres/target/release/build/serde-6c9ed650a6a1e90a/out/private.rs
+
+/Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/tyler/fall25/cse380/final_project/final_project_postgres/target/release/build/serde-6c9ed650a6a1e90a/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/tyler/fall25/cse380/final_project/final_project_postgres/target/release/build/serde-6c9ed650a6a1e90a/out

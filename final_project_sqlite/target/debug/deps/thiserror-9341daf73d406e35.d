@@ -1,0 +1,14 @@
+/Users/tyler/fall25/cse380/final_project/final_project_sqlite/target/debug/deps/thiserror-9341daf73d406e35.d: /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /Users/tyler/fall25/cse380/final_project/final_project_sqlite/target/debug/build/thiserror-dfd8cccf3525463e/out/private.rs
+
+/Users/tyler/fall25/cse380/final_project/final_project_sqlite/target/debug/deps/libthiserror-9341daf73d406e35.rlib: /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /Users/tyler/fall25/cse380/final_project/final_project_sqlite/target/debug/build/thiserror-dfd8cccf3525463e/out/private.rs
+
+/Users/tyler/fall25/cse380/final_project/final_project_sqlite/target/debug/deps/libthiserror-9341daf73d406e35.rmeta: /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /Users/tyler/fall25/cse380/final_project/final_project_sqlite/target/debug/build/thiserror-dfd8cccf3525463e/out/private.rs
+
+/Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs:
+/Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs:
+/Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs:
+/Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs:
+/Users/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs:
+/Users/tyler/fall25/cse380/final_project/final_project_sqlite/target/debug/build/thiserror-dfd8cccf3525463e/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/tyler/fall25/cse380/final_project/final_project_sqlite/target/debug/build/thiserror-dfd8cccf3525463e/out
